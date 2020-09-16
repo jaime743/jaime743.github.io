@@ -1,4 +1,3 @@
-# jaime743.github.io
 Hi Welcome to my Github Page.
 
 My name is Jaime and I'm a Software Developer in a large company in Madrid.
